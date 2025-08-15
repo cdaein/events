@@ -18,7 +18,9 @@
   "author": "Daeinc",
   "license": "MIT",
   "devDependencies": {
+    "@daeinc/draw": "^0.6.1",
     "esbuild-plugin-license": "^1.2.3",
+    "jsdom": "^26.1.0",
     "ssam": "^0.21.1",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3",
